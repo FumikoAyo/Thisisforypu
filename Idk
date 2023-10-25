@@ -1,0 +1,22 @@
+<!doctypehtml>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="yo mama" content="i really dont know"
+    <title>this funny</title>
+</head>
+
+<body>
+    <h1>this exercise</h1>
+    <h3>what do i want to do</h3>
+      <ul>
+          <li>to go home</li>
+          <ol>
+              <li>because i dont like it here</li>
+              <li>because i got better things to do</li>
+          </ol>
+          <li>to sleep</li>
+      </ul>
+      <h1>Do not access the link!</h1>
+      <a href="https://youtu.be/BWU8ILFzTRw?si=iUvj_A_bbiNWTGCk" title="click that link">don't do it</a>
+</body>
